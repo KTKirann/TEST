@@ -1,0 +1,13 @@
+//(2) local,static,instance,parameterthis are the diffrent kind of variables
+
+class laptop{
+public static void main (String[] arg){
+	
+	System.out.println("the information of laptop");
+	
+	
+}
+
+
+
+}
